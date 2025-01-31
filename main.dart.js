@@ -101087,7 +101087,7 @@ A.DN.prototype={
 ai(){return new A.a1c()}}
 A.a1c.prototype={
 H(a){var s=null,r=this.a.c
-return new A.DP(s,s,s,s,s,'<img src="'+r+'" alt="Set the image url and click the right arrow" >',A.bgo(),s,s,s,s,s,B.jq,s,s)}}
+return new A.DP(s,s,s,s,s,'<img src="'+r+'" alt="Set the image url and click the right arrow">',A.bgo(),s,s,s,s,s,B.jq,s,s)}}
 A.Sz.prototype={
 H(a){var s=null,r=A.iI(12)
 return A.oJ(new A.my(1,A.cj(s,A.em(A.d7(s,new A.DN(this.d,s),B.z,!1,s,this.c,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,B.Y),s,s),B.p,s,new A.cG(B.Wk,s,s,r,s,s,s,B.a7),s,s,s,s),s),1)}}
