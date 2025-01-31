@@ -100969,7 +100969,7 @@ azI(a){this.d=!1
 document.webkitExitFullscreen()}}
 A.aBW.prototype={
 $0(){var s=this.a
-s.e=s.f.a.a},
+return s.e=s.f.a.a},
 $S:0}
 A.Dy.prototype={
 ai(){return new A.a1_(new A.by(null,t.A),new A.d(0,0))},
@@ -101087,7 +101087,7 @@ A.DN.prototype={
 ai(){return new A.a1c()}}
 A.a1c.prototype={
 H(a){var s=null,r=this.a.c
-return new A.DP(s,s,s,s,s,'<img src="'+r+'" alt="\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435 \u0437\u0430\u0434\u0430\u043d\u043e" >',A.bgo(),s,s,s,s,s,B.jq,s,s)}}
+return new A.DP(s,s,s,s,s,'<img src="'+r+'" alt="Set the image url and click the right arrow" >',A.bgo(),s,s,s,s,s,B.jq,s,s)}}
 A.Sz.prototype={
 H(a){var s=null,r=A.iI(12)
 return A.oJ(new A.my(1,A.cj(s,A.em(A.d7(s,new A.DN(this.d,s),B.z,!1,s,this.c,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,B.Y),s,s),B.p,s,new A.cG(B.Wk,s,s,r,s,s,s,B.a7),s,s,s,s),s),1)}}
